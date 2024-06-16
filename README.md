@@ -15,6 +15,7 @@ This project primarily uses ViteJS as a frontend tool.
 <br>
 <hr>
 <br>
+
 ### Setup and Prerequesites
 
 Scaffolding Your First Vite Project~
