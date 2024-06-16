@@ -38,3 +38,10 @@ Installing Fonts~
 npm i @fontsource/roboto @fontsource/outfit
 ```
 <br>
+Running The App~
+
+```
+npm dev run
+```
+<br>
+
