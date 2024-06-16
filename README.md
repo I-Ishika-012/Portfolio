@@ -15,3 +15,19 @@ This project primarily uses ViteJS as a frontend tool.
 <br>
 <hr>
 <br>
+### Setup and Prerequesites
+
+Scaffolding Your First Vite Project~
+
+<b>
+  
+🗒️Compatibility Note:
+
+Vite requires Node.js version 18+ or 20+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
+
+</b>
+
+```
+npm create vite@latest
+```
+<br>
