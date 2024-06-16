@@ -33,6 +33,8 @@ npm create vite@latest
 ```
 <br>
 Installing Fonts~
+
 ```
 npm i @fontsource/roboto @fontsource/outfit
 ```
+<br>
