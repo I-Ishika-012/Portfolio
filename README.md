@@ -1,4 +1,4 @@
-# Portfoli Project
+# Portfolio Project
 ## Portfolio Website Using ReactJS
 
 <br>
