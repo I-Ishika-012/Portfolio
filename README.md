@@ -32,3 +32,7 @@ Vite requires Node.js version 18+ or 20+. However, some templates require a high
 npm create vite@latest
 ```
 <br>
+Installing Fonts~
+```
+npm i @fontsource/roboto @fontsource/outfit
+```
