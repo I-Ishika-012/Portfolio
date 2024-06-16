@@ -8,7 +8,7 @@
 ### About ViteJS
 Vite is a build tool that lets you configure a development environment for Vue, TezJS and React frameworks and integrate it with other back-ends. In addition, it also supports Server-side Rendering (SSR).
 
-This project primarily uses ViteJS as a frontend tool.
+This project primarily uses ViteJS to set up a development environment for our project based on React framework.
 
 [Know More About ViteJS](https://vitejs.dev/)
 
