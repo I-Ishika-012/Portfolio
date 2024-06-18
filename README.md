@@ -44,4 +44,9 @@ Running The App~
 npm dev run
 ```
 <br>
+Converting React to HTML, CSS, JS to Publish~
 
+```
+npm run build
+```
+<br>
