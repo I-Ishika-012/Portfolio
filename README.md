@@ -50,3 +50,9 @@ Converting React to HTML, CSS, JS to Publish~
 npm run build
 ```
 <br>
+Previewing~
+
+```
+npm run preview
+```
+<br>
