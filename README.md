@@ -2,7 +2,7 @@
 ## Portfolio Website Using ReactJS
 
 <br>
-([Visit](https://ishikadutta.netlify.app/))
+- ([Visit](https://ishikadutta.netlify.app/))
 <hr>
 <br>
 
